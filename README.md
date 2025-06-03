@@ -1,2 +1,2 @@
 # Blockchain-Solidity
-Membuat Project Blockchain Solidity
+Repository Project Blockchain Solidity
